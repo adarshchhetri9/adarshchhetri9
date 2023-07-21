@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **chhetriadarsh912@gmail.com**  
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z8SadGGQvEf0AnPxr-jf9XQSiAo3UUYK/view](https://drive.google.com/file/d/1z8SadGGQvEf0AnPxr-jf9XQSiAo3UUYK/view)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f3QBr6vVDI406cxOhkVxOUPeABp6q7Wk/view?usp=sharing)  
   
 - ⚡ Fun fact **I watch Anime**  
   
