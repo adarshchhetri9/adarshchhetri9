@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **Full stack Javascript Development**  
   
-- 👨‍💻 All of my projects are available at [https://3dportfolio-6iya.vercel.app/](https://3dportfolio-6iya.vercel.app/)  
+- 👨‍💻 All of my projects are available at [My 3D Portfolio](https://3dportfolio-6iya.vercel.app/)  
   
 - 💬 Ask me about **React, Tailwind, Javascript, HTML, Css**  
   
