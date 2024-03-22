@@ -6,13 +6,13 @@
   
 - 👨‍💻 All of my projects are available at [My 3D Portfolio](https://3dportfolio-6iya.vercel.app/)  
   
-- 💬 Ask me about **React, Tailwind, Javascript, HTML, Css**  
+- 💬 Ask me about **React/Next.js, Tailwind, Javascript/Typescript, HTML, Css/Tailwindcss**  
   
 - 📫 How to reach me **chhetriadarsh912@gmail.com**  
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1f3QBr6vVDI406cxOhkVxOUPeABp6q7Wk/view?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uFHoVrn0ywvklGy5M0RWHljORXCCWEHr/view)  
   
-- ⚡ Fun fact **I watch Anime**  
+- ⚡ Fun fact **I love Anime**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
