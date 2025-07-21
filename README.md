@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh chhetri</h1>  
-<h3 align="center">Frontend developer with expertise in designing and developing</h3>  
+<h3 align="center">Data Analyst with expertise in designing and developing insight</h3>  
   
-- 🌱 I’m currently learning **Full stack Javascript Development**  
+- 🌱 I’m currently learning **Statistical Analysis**  
   
 - 👨‍💻 All of my projects are available at [My 3D Portfolio](https://3dportfolio-6iya.vercel.app/)  
   
